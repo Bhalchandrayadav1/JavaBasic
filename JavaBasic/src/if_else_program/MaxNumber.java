@@ -12,7 +12,8 @@ public class MaxNumber {
 
 		M.Max_Number(number1, number2);
 	}
-
+	
+	// Max_Number Function
 	public void Max_Number(int x, int y) {
 		if (x > y)
 			System.out.println(" Number = " + x + " is Maximum Number");
